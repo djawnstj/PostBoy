@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PostBoy</string>
+    
+    <!--  Call method Spinner arr START  -->
+    <array name="call_methods">
+        <item>GET</item>
+        <item>POST</item>
+    </array>
+    <!--  Call method Spinner arr END  -->
+    
+</resources>
